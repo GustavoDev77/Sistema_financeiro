@@ -6,7 +6,7 @@ public class MainView {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Simulador de Financiamento Imobiliario");
+        System.out.println("Simulador de Financiamento Imobiliario V1");
         System.out.print(" Digite o valor do imovel: ");
         double valorImovel = scanner.nextDouble();
 
